@@ -1,11 +1,10 @@
 import logo from './logo.svg';
 import './App.css';
-import './profile/Profile.js'
 
 function App() {
   return (
     <div className="App">
-      {/* <Profile></Profile> */}
+      <h1>My first app</h1>
     
     </div>
   );
